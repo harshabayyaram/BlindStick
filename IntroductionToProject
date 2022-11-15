@@ -1,0 +1,33 @@
+Visually impaired persons have difficulty to interact and feel their
+environment. They have little contact with surroundings. Physical movement is
+a challenge for visually impaired persons, because it can become tricky to
+distinguish obstacles appearing in front of them, and they are not able to move
+from one place to another.
+They depend on their families for mobility and financial support. Their
+mobility opposes them from interacting with people and social activities. In the
+past, different systems are designed with limitations without a solid
+understanding of the nonvisual perception. Researchers have spent the decades
+to develop an intelligent and smart stick to assist and alert visually impaired
+persons from obstacles and give information about their location. Over the last
+decades, research has been conducted for new devices to design a good and
+reliable system for visually impaired persons to detect obstacles and warn them
+at danger places.
+Smart walking stick is specially designed to detect obstacles which may
+help the blind to navigate care-free. The audio messages will keep the user alert
+and considerably reduce accidents. A voice enabled automatic switching is also
+incorporated to help them in private space as well. This system presents a
+concept to provide a smart electronic aid for blind people, both in public and
+private space The proposed system contains the ultrasonic sensor, water sensor,
+voice play back board, raspberry pi and speaker. The proposed system detects
+the obstacle images which are present in outdoor and indoor with the help of a
+camera. The Stick measures the distance between the objects and smart walking
+stick by using an ultrasonic sensor. When any objects or obstacles come in
+range of an ultrasonic sensor then the head phone tell the name of obstacle
+which is in front of the stick. The smart walking stick is a simple and purely
+mechanical device to detect the obstacles on the ground. This device is light in
+weight and portable. But its range is limited due to its own size. It provides the
+best travel aid for the person. The blind person can move from one place to
+another independently without the others help. The main aim of the system is to
+provide a efficient navigation aid for the blind persons which gives a sense of
+vision by providing the information about their surroundings and objects around
+them.
